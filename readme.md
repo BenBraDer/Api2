@@ -1,62 +1,25 @@
+# 🍽️ Meal Finder – TheMealDB API Project
 
-<h1 align="center">CSS FlexBox</h1>
-<div align="center">
-  <h3>
-    <a href="https://github.com/roykenvgs/test">
-      Lenken til prosjektet
-    </a>
-  </h3>
-</div>
-<!-- TABLE OF CONTENTS -->
+This is a simple JavaScript project that allows users to search for meals using [TheMealDB API](https://www.themealdb.com/). It fetches data using `fetch()` and displays it dynamically on a webpage. The project is built with HTML, CSS, and JavaScript and follows the steps shown in [this YouTube tutorial](https://www.youtube.com/watch?v=DkUjwWQEgOE&list=PLMxec9nlD1X0bOU3N1yF9IV4HRpotUa8z).
 
-## Table of Contents
+## 🌟 Features
 
-- [Overview](#overview)
-- [Built With](#built-with)
-- [Features](#features)
-- [How to use](#how-to-use)
-- [Contact](#contact)
+- 🔎 Search for meals by name
+- 📷 Displays meal image, title, and instructions
+- 🌍 Uses Fetch API to retrieve data from TheMealDB
+- 💡 Responsive and clean user interface
 
-<!-- OVERVIEW -->
-## Overview
-Se nederst
+## 🚀 Technologies Used
 
-### Built With
-- [HTML](https://www.w3schools.com/html/)
-- [CSS](https://www.w3schools.com/css/default.asp)
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Fetch API
+- TheMealDB API
 
-## Features
-This app comprises use of Stack Navigation and RESTFUL Web APIs
-- Lorem ipsum 
-- Lorem ipsum 
-- Lorem ipsum 
-- Lorem ipsum 
+## 📂 How to Run
 
-## How To Use
-Hvilke koder har du brukt? Skrive her:
-
-```
-HTML 
-- https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-- https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-- https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-CSS 
-- https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-- https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-- https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-
-```
-
-## Contact
-- GitHub [Røyken VGS](https://github.com/roykenvgs)
-- Epost [Røyken VGS](mailto:test@gmail.com)
-
-
-## Happy coding!
-
-## Forventet resultat
-
-![Image_1](./bootstrap.png)
-![Image_2](./es6.jpg)
-![Image_3](./images/test.jpg)
-![Image_4](./images/test.jpg)
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/meal-finder.git
+   cd meal-finder
