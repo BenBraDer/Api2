@@ -11,9 +11,9 @@ This is a simple JavaScript project that allows users to search for meals using 
 
 ## 🚀 Technologies Used
 
-- HTML5
-- CSS3
-- JavaScript (ES6+)
+- HTML
+- CSS
+- JavaScript 
 - Fetch API
 - TheMealDB API
 
